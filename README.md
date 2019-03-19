@@ -4,7 +4,7 @@ This is your first PCD Designer Exam, so we'll keep it simple.
 
 You will create a simple PCB with 3 MX Key (mechanical Keyboard) and an USB connector to connect to the PC and have programmable shortcut key.
 
-For the exam you have access to Internet and Wiki from IUT LONGWY GITHUB, Library and Drawing.
+For the exam you have access to Internet and Wiki from IUT LONGWY GITHUB, [Library](https://github.com/Starius-Project/Eagle_examen_1/tree/master/eagle/Lib) (follow the Wiki for instructions) and Drawing.
 
 **Don't forget to make a Document (in french) to explain all the steps of the Design, I will use this document and the Eagle files to rate you. So keep it clear and complete.**
 
