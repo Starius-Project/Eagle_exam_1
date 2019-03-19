@@ -1,6 +1,6 @@
 # MX Key PCB
 
-This is your first PCD Designer Exam, so we'll keep it simple.
+This is your first PCB Designer Exam, so we'll keep it simple.
 
 You will create a simple PCB with 3 MX Key (mechanical Keyboard) and an USB connector to connect to the PC and have programmable shortcut key.
 
