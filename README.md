@@ -10,7 +10,7 @@ You have 4 hours, good luck !
 
 ## Dimensions
 
-[Dimensions files](https://github.com/Starius-Project/Eagle_examen_1/blob/master/docs/drawing_screenshot.jpg)
+![Screenshot](https://github.com/Starius-Project/Eagle_examen_1/blob/master/docs/drawing_screenshot.jpg)
 
 All dimensions are in mm.
 
