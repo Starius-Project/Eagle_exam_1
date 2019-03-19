@@ -27,7 +27,7 @@ Add 4 holes on the side for M3 screws.
 ## Components
 
 To make this design you need the following components:
-- CHERRY-MX-LED from cherry MX library
+- [CHERRY-MX-LED](https://be.farnell.com/fr-BE/cherry/mx1a-11nw/switch-tactile-spst-no-0-01a-tht/dp/2292961) from cherry MX library 
 - ATMEGA32U4 from Adafruit library
 - all the necessary components around (only use 0805 components for resistors and capacitors)
 - USBMINIB from Adafruit library
