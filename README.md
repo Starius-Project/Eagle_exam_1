@@ -6,7 +6,7 @@ You will create a simple PCB with 3 MX Key (mechanical Keyboard) and an USB conn
 
 For the exam you have access to Internet and [Wiki](https://github.com/iutlongwy/Eagle/wiki/Home) from IUT LONGWY GITHUB, [Library](https://github.com/Starius-Project/Eagle_examen_1/tree/master/eagle/Lib) (follow the Wiki for instructions) and Drawing.
 
-**Don't forget to make a Document (in french) to explain all the steps of the Design, I will use this document and the Eagle files to rate you. So keep it clear and complete.**
+**Don't forget to make a Document (in French) to explain all the steps of the Design, I will use this document and the Eagle files to rate you. So keep it clear and complete.**
 
 **Send everything in a .RAR file at captant.mickael@gmail.com BEFORE the end of the exam**
 
@@ -36,7 +36,7 @@ To make this design you need the following components:
 
 you must validate the different steps by calling the teacher before continuing the following tasks:
 
-- found components and place on the schematic
+- find components and place on the schematic
 - Connect them with Net and Net Name
 - synchronize with the PCB
 - change dimensions of the PCB (based on drawing)
