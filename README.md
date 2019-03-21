@@ -40,8 +40,8 @@ you must validate the different steps by calling the teacher before continuing t
 - Connect them with Net and Net Name
 - synchronize with the PCB
 - change dimensions of the PCB (based on drawing)
-- place main components on the PCB (USB, Cherry Key, ATMEGA based on drawing)
-- place other components
+- place main components on the PCB (USB, Cherry Key based on drawing)
+- place other components on bottom of the board
 - route tracks and place VIA for GND + place GND Polygon (one BOTTOM and one TOP)
 - place Serigraphy
 - Send files
