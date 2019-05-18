@@ -36,14 +36,14 @@ To make this design you need the following components:
 
 you must validate the different steps by calling the teacher before continuing the following tasks:
 
-- find components and place on the schematic
-- Connect them with Net and Net Name
-- synchronize with the PCB
-- change dimensions of the PCB (based on drawing)
-- place main components on the PCB (USB, Cherry Key based on drawing)
-- place other components on bottom of the board
-- route tracks and place VIA for GND + place GND Polygon (one BOTTOM and one TOP)
-- place Serigraphy
-- Send files
+- find components and place on the schematic (4pts)
+- Connect them with Net and Net Name  (4pts)
+- synchronize with the PCB  (1pts)
+- change dimensions of the PCB (based on drawing)  (1pts)
+- place main components on the PCB (USB, Cherry Key based on drawing)  (3pts)
+- place other components on bottom of the board (2pts)
+- route tracks and place VIA for GND + place GND Polygon (one BOTTOM and one TOP)  (3pts)
+- place Serigraphy (1pts)
+- Send files (1pts)
 
 
